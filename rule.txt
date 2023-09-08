@@ -1,0 +1,4 @@
+IN TERMINAL (powershell)--->
+
+PS C:\Users\aparn> cd ~/OneDrive/Desktop/Git-tutorial
+PS C:\Users\aparn\OneDrive\Desktop\Git-tutorial> ls
